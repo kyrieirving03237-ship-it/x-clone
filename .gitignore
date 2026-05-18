@@ -1,0 +1,14 @@
+# 環境変数・シークレット（絶対にコミットしないこと）
+.env
+.env.local
+.env.*
+*.secret
+secrets.json
+
+# macOS
+.DS_Store
+
+# エディタ
+.vscode/
+.idea/
+*.swp
